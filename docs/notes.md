@@ -56,3 +56,4 @@ Notes and usage details for starfield.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
